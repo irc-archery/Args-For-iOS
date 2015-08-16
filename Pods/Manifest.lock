@@ -1,0 +1,16 @@
+PODS:
+  - LUKeychainAccess (1.2.4)
+  - MBProgressHUD (0.9.1)
+  - SIOSocket (0.2.0)
+
+DEPENDENCIES:
+  - LUKeychainAccess
+  - MBProgressHUD (~> 0.9.1)
+  - SIOSocket (~> 0.2.0)
+
+SPEC CHECKSUMS:
+  LUKeychainAccess: 6479edb12cf06e11ff3336f796959eedbc58f714
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  SIOSocket: 2facc0bd02ae72d98c223634a46dd8ebdf9be321
+
+COCOAPODS: 0.35.0
